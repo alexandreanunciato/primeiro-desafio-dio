@@ -4,7 +4,7 @@ Projeto desenvolvido como desafio prático do Bootcamp DIO, com foco na aplicaç
 
 O sistema percorre uma lista de heróis, analisa a quantidade de XP de cada um e define automaticamente seu nível, exibindo no console a mensagem:
 
-> "O Herói de nome {nome} está no nível de {nível}"
+> "O herói {nome} possui poder de {xp} e é classificado como nível {nivel}."
 
 ## 🎯 Objetivo do Desafio
 Aplicar conceitos como:
